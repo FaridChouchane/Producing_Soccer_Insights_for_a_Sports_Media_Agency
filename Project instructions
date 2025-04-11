@@ -1,0 +1,8 @@
+Find the top 3 teams which scored highest goals while playing at their home ground in UEFA Champions League 2020-21. The output should contain two columns: TEAM_NAME_HOME and TEAM_HOME_SCORE arranged in descending order of TEAM_HOME_SCORE. Save the query as TEAM_HOME_WITH_MOST_GOALS.
+
+Find the team with majority possession for maximum number of times during UEFA Champions League 2021-22. The result should include two columns: TEAM_NAME and GAME_COUNT which is number of times the team had majority possession while playing soccer game. Save this query as TEAM_WITH_MAJORITY_POSSESSION
+
+Find the list of teams for each stage of the game, which won the duel in a match but still ended up losing the game in UEFA Championship 2022-23. The output should contain two columns: STAGE and TEAM_LOST. Save the query as TEAM_WON_DUEL_LOST_GAME_STAGE_WISE.
+
+Note: Please also ensure that you do not change the names of the DataFrames that the three query results will be saved as - creating new cells in the workbook will rename the DataFrame (see image below). Make sure that your final solutions use the names provided: TEAM_HOME_WITH_MOST_GOALS, TEAM_WITH_MAJORITY_POSSESSION, and TEAM_WON_DUEL_LOST_GAME_STAGE_WISE.
+
