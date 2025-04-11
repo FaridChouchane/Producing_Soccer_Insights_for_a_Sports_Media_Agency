@@ -6,4 +6,4 @@ Find the list of teams for each stage of the game, which won the duel in a match
 
 Note: Please also ensure that you do not change the names of the DataFrames that the three query results will be saved as - creating new cells in the workbook will rename the DataFrame (see image below). Make sure that your final solutions use the names provided: TEAM_HOME_WITH_MOST_GOALS, TEAM_WITH_MAJORITY_POSSESSION, and TEAM_WON_DUEL_LOST_GAME_STAGE_WISE.
 
-![snf.jpg](snf.png)
+![snf.png](snf.png)
